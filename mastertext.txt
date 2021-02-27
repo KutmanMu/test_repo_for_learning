@@ -1,1 +1,2 @@
 just plain text file , for learning purposes
+change taking place at github.com/KutmanMu/test_repo_for_learning/edit/master/mastertext.txt
