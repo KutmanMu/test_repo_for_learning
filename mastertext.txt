@@ -1,5 +1,1 @@
-just plain text file , for learning purposes
-change taking place at github.com/KutmanMu/test_repo_for_learning/edit/master/mastertext.txt
-change taking place at local machine to test push command 
-another line from local machine 
-
+// nothing here 
