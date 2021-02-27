@@ -1,3 +1,2 @@
-#HI
-// this is just some text 
-#new reshotka change
+#header
+#for learning purposes 
