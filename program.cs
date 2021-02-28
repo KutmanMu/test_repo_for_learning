@@ -15,7 +15,7 @@ class Program
     private bool myBool = false ;
     private char myChar = 'Z';
     private int number = 0;
-    private float floatingPointNumber = 1.3f;           //notice 'f' character at the end of value 
+    private float floatingPointNumber = 1.3f;           //notice 'f' character at the end of floating point number
 
     //simple loop mechanism 
     for (int i = 0; i <= 10 ; i++){
